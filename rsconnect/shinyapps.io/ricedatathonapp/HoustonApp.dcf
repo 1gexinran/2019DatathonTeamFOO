@@ -1,0 +1,12 @@
+name: HoustonApp
+title: HoustonApp
+username:
+account: ricedatathonapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 668196
+bundleId: 1838796
+url: https://ricedatathonapp.shinyapps.io/HoustonApp/
+when: 1548533052.95388
+asMultiple: FALSE
+asStatic: FALSE
